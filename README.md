@@ -19,7 +19,7 @@
   <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Design/Figma?theme=dark"/>
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/5/59/Sharpdevelop_Logo.jpg?20090927163646](https://mezo.neocities.org/icons/ok)"/>
+  <img src="https://mezo.neocities.org/icons/ok"/>
   <img src="https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark"/>
 </div>
 <div align="center">
